@@ -12,6 +12,11 @@ orders and products in the database. The system is designed to provide the best 
 - streamlit
 - python
 - langflow
+- AstraDB
+- VectorStore
+- Rag
+- openai
+- fastapi
 
 ## Installation
 ```bash
